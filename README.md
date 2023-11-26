@@ -16,5 +16,4 @@ I'm a data enthusiast with a strong analytical mindset and a keen interest in tr
 2. [Project 2](https://github.com/yourname/project2): Description
 
 ## 🌐 Connect with Me
-
-- [LinkedIn]: https://www.linkedin.com/in/aanand2/ 
+https://www.linkedin.com/in/aanand2/ 
