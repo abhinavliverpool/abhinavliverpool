@@ -5,9 +5,13 @@ I'm a data enthusiast with a strong analytical mindset and a keen interest in tr
 ## 🚀 Skills and Expertise
 
  **Data Cleaning and Preprocessing:** Expertise in cleaning and preprocessing data to ensure accuracy and reliability.
+
  **Statistical Analysis:** Proficient in applying statistical methods to extract meaningful patterns and trends from data.
+ 
  **Data Visualization:** Skilled in using tools like Matplotlib and Seaborn to create visually compelling and informative charts and graphs.
+ 
  **SQL and Database Management:** Experience in querying databases and managing data using SQL.
+ 
  **Machine Learning:** Basic knowledge of machine learning concepts for predictive modeling.
 
 ## 📈 Data Analytics Projects
