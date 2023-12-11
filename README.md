@@ -17,7 +17,7 @@ I'm a data enthusiast with a strong analytical mindset and a keen interest in tr
 ## 📈 Data Analytics Projects
 
 1. Spotify 2023 Dataset EDA :(https://github.com/abhinavliverpool/Spotify)
-2. Event Study on Cambridge Analytica: (https://github.com/abhinavliverpool/CambridgeAnalytica/tree/main)https://github.com/abhinavliverpool/CambridgeAnalytica/tree/main
+2. Event Study on Cambridge Analytica: (https://github.com/abhinavliverpool/CambridgeAnalytica/tree/main)
 
 ## 🌐 Connect with Me
 https://www.linkedin.com/in/aanand2/ 
